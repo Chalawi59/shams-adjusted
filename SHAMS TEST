@@ -1,0 +1,259 @@
+#EXTM3U
+#EXTINF:-1,tvg-name="SHAMSI IPTV"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="Move",SHAMSI IPTV
+http://shamsi.xyz:25461/demo/demo/1
+#EXTINF:-1,tvg-name="SHAMSI FEROUZ"tvg-logo="https://tunisnow.tn/wp-content/uploads/2020/05/%D9%81%D9%8A%D8%B1%D9%88%D8%B2.png"group-title="Music",SHAMSI FEROUZ
+http://shamsi.xyz:25461/demo/demo/42
+#EXTINF:-1,tvg-name="SHAMSI MOVIES"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="Move",SHAMSI MOVIES
+http://shamsi.xyz:25461/demo/demo/2
+#EXTINF:-1,tvg-name="SHAMSI AFLAM"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="Move",SHAMSI AFLAM
+http://shamsi.xyz:25461/demo/demo/5
+#EXTINF:-1,tvg-name="SHAMSI DRAMA"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="Move",SHAMSI DRAMA
+http://shamsi.xyz:25461/demo/demo/40
+#EXTINF:-1,tvg-name="SHAMSI SECRET"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="ُEntertenment",SHAMSI SECRET
+http://shamsi.xyz:25461/demo/demo/6
+#EXTINF:-1,tvg-name="MBC 1"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC 1
+http://shamsi.xyz:25461/demo/demo/97
+#EXTINF:-1,tvg-name="MBC 2"tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC",MBC 2
+http://shamsi.xyz:25461/demo/demo/98
+#EXTINF:-1,tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="MBC",MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8?fluxustv.m3u8
+#EXTINF:-1,tvg-name="MBC 4" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="MBC",MBC 4
+http://shamsi.xyz:25461/demo/demo/99
+#EXTINF:-1,tvg-name="MBC 5" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="MBC",MBC 5
+http://shamsi.xyz:25461/demo/demo/100
+#EXTINF:-1,tvg-name="MBC Max ARB" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="MBC",MBC Max
+http://shamsi.xyz:25461/demo/demo/101
+#EXTINF:-1,tvg-name="MBC ACTION "group-title="MBC",MBC ACTION
+http://shamsi.xyz:25461/demo/demo/102
+#EXTINF:-1,tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="MBC",MBC Bollywood
+http://shamsi.xyz:25461/demo/demo/103
+#EXTINF:-1,tvg-name="MBC Drama" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Drama
+http://shamsi.xyz:25461/demo/demo/104
+#EXTINF:-1,tvg-name="MBC Drama +" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Drama +
+http://shamsi.xyz:25461/demo/demo/105
+#EXTINF:-1,MBC Iraq
+http://shamsi.xyz:25461/demo/demo/107
+#EXTINF:-1,tvg-name="MBC Masr 1 " tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="MBC",MBC Masr 1
+http://shamsi.xyz:25461/demo/demo/108
+#EXTINF:-1,tvg-name="MBC Masr 2 " tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="MBC",MBC Masr 2
+http://shamsi.xyz:25461/demo/demo/109
+#EXTINF:-1,Rotana Cinema
+http://shamsi.xyz:25461/demo/demo/195
+#EXTINF:-1,Rotana Classic
+http://shamsi.xyz:25461/demo/demo/196
+#EXTINF:-1,Rotana Coymedy
+http://shamsi.xyz:25461/demo/demo/197
+#EXTINF:-1,Rotana Drama
+http://shamsi.xyz:25461/demo/demo/198
+#EXTINF:-1,Rotana Khalijia
+http://shamsi.xyz:25461/demo/demo/199
+#EXTINF:-1,ART HEKAYAT 1
+http://shamsi.xyz:25461/demo/demo/274
+#EXTINF:-1,ART HEKAYAT 2
+http://shamsi.xyz:25461/demo/demo/275
+#EXTINF:-1,ART CINEMA
+http://shamsi.xyz:25461/demo/demo/276
+#EXTINF:-1,ART AFLAM 1
+http://shamsi.xyz:25461/demo/demo/277
+#EXTINF:-1,ART AFLAM 2
+http://shamsi.xyz:25461/demo/demo/278
+#EXTINF:-1,ART MOVIES
+http://shamsi.xyz:25461/demo/demo/279
+#EXTINF:-1,ART AMERICA
+http://shamsi.xyz:25461/demo/demo/280
+#EXTINF:-1,ART VARIETY
+http://shamsi.xyz:25461/demo/demo/281
+#EXTINF:-1,National Geographic Abu Dhabi
+http://shamsi.xyz:25461/demo/demo/285
+#EXTINF:-1,NEWS JSC Arabic
+http://shamsi.xyz:25461/demo/demo/59
+#EXTINF:-1,NEWS JSC Mubasher
+http://shamsi.xyz:25461/demo/demo/60
+#EXTINF:-1,NEWS AL ARABY
+http://shamsi.xyz:25461/demo/demo/61
+#EXTINF:-1,NEWS AL HIWAR
+http://shamsi.xyz:25461/demo/demo/62
+#EXTINF:-1,NEWS Al ARABIYA
+http://shamsi.xyz:25461/demo/demo/63
+#EXTINF:-1,NEWS Al ARABIYA Hadath
+http://shamsi.xyz:25461/demo/demo/64
+#EXTINF:-1,NEWS BBC Arabic
+http://shamsi.xyz:25461/demo/demo/65
+#EXTINF:-1,NEWS RT Arabic
+http://shamsi.xyz:25461/demo/demo/66
+#EXTINF:-1,NEWS France 24
+http://shamsi.xyz:25461/demo/demo/67
+#EXTINF:-1,NEWS DW Arabia
+http://shamsi.xyz:25461/demo/demo/68
+#EXTINF:-1,NEWS Al Hurra
+http://shamsi.xyz:25461/demo/demo/69
+#EXTINF:-1,NEWS Al Hurra Iraq
+http://shamsi.xyz:25461/demo/demo/70
+#EXTINF:-1,NEWS Al Sharqiya News
+http://shamsi.xyz:25461/demo/demo/71
+#EXTINF:-1,NEWS Al Iraqiya News
+http://shamsi.xyz:25461/demo/demo/72
+#EXTINF:-1,NEWS CNBC Arabiya
+http://shamsi.xyz:25461/demo/demo/73
+#EXTINF:-1,NEWS PRESS
+http://shamsi.xyz:25461/demo/demo/74
+#EXTINF:-1,NEWS ALARABIA FM
+http://shamsi.xyz:25461/demo/demo/75
+#EXTINF:-1,MUSIC
+http://shamsi.xyz:25461/demo/demo/76
+#EXTINF:-1,IRAQ Dijlah
+http://shamsi.xyz:25461/demo/demo/396
+#EXTINF:-1,IRAQ Dijlah Tarab
+http://shamsi.xyz:25461/demo/demo/397
+#EXTINF:-1,IRAQ Al Iraqiya Al 3ama
+http://shamsi.xyz:25461/demo/demo/398
+#EXTINF:-1,IRAQ Al Rafidain
+http://shamsi.xyz:25461/demo/demo/399
+#EXTINF:-1,IRAQ Al Sharqiya
+http://shamsi.xyz:25461/demo/demo/400
+#EXTINF:-1,IRAQ Al Summaria
+http://shamsi.xyz:25461/demo/demo/401
+#EXTINF:-1,IRAQ Al Taghayer
+http://shamsi.xyz:25461/demo/demo/402
+#EXTINF:-1,IRAQ Amozhgary
+http://shamsi.xyz:25461/demo/demo/403
+#EXTINF:-1,IRAQ Babylon TV
+http://shamsi.xyz:25461/demo/demo/404
+#EXTINF:-1,BEIN 1  HD
+http://shamsi.xyz:25461/demo/demo/604
+#EXTINF:-1,BEIN 2  HD
+http://shamsi.xyz:25461/demo/demo/605
+#EXTINF:-1,BEIN 3  HD
+http://shamsi.xyz:25461/demo/demo/606
+#EXTINF:-1,BEIN 4  HD
+http://shamsi.xyz:25461/demo/demo/607
+#EXTINF:-1,BEIN 5  HD
+http://shamsi.xyz:25461/demo/demo/608
+#EXTINF:-1,BEIN 6  HD
+http://shamsi.xyz:25461/demo/demo/609
+#EXTINF:-1,BEIN 7  HD
+http://shamsi.xyz:25461/demo/demo/610
+#EXTINF:-1,BEIN 8  HD
+http://shamsi.xyz:25461/demo/demo/611
+#EXTINF:-1,BEIN 9  HD
+http://shamsi.xyz:25461/demo/demo/612
+#EXTINF:-1,BEIN 10  HD
+http://shamsi.xyz:25461/demo/demo/613
+#EXTINF:-1,BEIN 11  HD
+http://shamsi.xyz:25461/demo/demo/614
+#EXTINF:-1,BEIN 12  HD
+http://shamsi.xyz:25461/demo/demo/615
+#EXTINF:-1,FILM Extraction
+http://shamsi.xyz:25461/movie/demo/demo/531.m3u8
+#EXTINF:-1,FILM 1917    HD
+http://shamsi.xyz:25461/movie/demo/demo/532.m3u8
+#EXTINF:-1,FILM Spenser Confidential
+http://shamsi.xyz:25461/movie/demo/demo/533.m3u8
+#EXTINF:-1,FILM Little Women
+http://shamsi.xyz:25461/movie/demo/demo/534.m3u8
+#EXTINF:-1,FILM Sonic the Hedgehog
+http://shamsi.xyz:25461/movie/demo/demo/535.m3u8
+#EXTINF:-1,FILM Jumanji: The Next Level
+http://shamsi.xyz:25461/movie/demo/demo/536.m3u8
+#EXTINF:-1,FILM Dolittle
+http://shamsi.xyz:25461/movie/demo/demo/537.m3u8
+#EXTINF:-1,FILM Insidious: Chapter 2
+http://shamsi.xyz:25461/movie/demo/demo/538.m3u8
+#EXTINF:-1,FILM Prison Break: The Final Break
+http://shamsi.xyz:25461/movie/demo/demo/539.m3u8
+#EXTINF:-1,FILM Insidious    HD
+http://shamsi.xyz:25461/movie/demo/demo/540.m3u8
+#EXTINF:-1,FILM Motherless Brooklyn
+http://shamsi.xyz:25461/movie/demo/demo/541.m3u8
+#EXTINF:-1,FILM Terminator: Dark Fate
+http://shamsi.xyz:25461/movie/demo/demo/542.m3u8
+#EXTINF:-1,FILM Harriet    HD
+http://shamsi.xyz:25461/movie/demo/demo/543.m3u8
+#EXTINF:-1,FILM Dark Waters
+http://shamsi.xyz:25461/movie/demo/demo/544.m3u8
+#EXTINF:-1,FILM The Irishman
+http://shamsi.xyz:25461/movie/demo/demo/545.m3u8
+#EXTINF:-1,FILM Hard Night Falling
+http://shamsi.xyz:25461/movie/demo/demo/546.m3u8
+#EXTINF:-1,FILM 6 Underground
+http://shamsi.xyz:25461/movie/demo/demo/547.m3u8
+#EXTINF:-1,FILM Doctor Sleep
+http://shamsi.xyz:25461/movie/demo/demo/548.m3u8
+#EXTINF:-1,FILM Judy
+http://shamsi.xyz:25461/movie/demo/demo/549.m3u8
+#EXTINF:-1,FILM Marriage Story
+http://shamsi.xyz:25461/movie/demo/demo/550.m3u8
+#EXTINF:-1,FILM Danger Close
+http://shamsi.xyz:25461/movie/demo/demo/551.m3u8
+#EXTINF:-1,FILM Ad Astra
+http://shamsi.xyz:25461/movie/demo/demo/552.m3u8
+#EXTINF:-1,FILM Rambo: Last Blood
+http://shamsi.xyz:25461/movie/demo/demo/553.m3u8
+#EXTINF:-1,FILM It Chapter Two
+http://shamsi.xyz:25461/movie/demo/demo/554.m3u8
+#EXTINF:-1,FILM Ready or Not
+http://shamsi.xyz:25461/movie/demo/demo/555.m3u8
+#EXTINF:-1,FILM official secrets
+http://shamsi.xyz:25461/movie/demo/demo/556.m3u8
+#EXTINF:-1,FILM Once Upon a Time in Hollywood
+http://shamsi.xyz:25461/movie/demo/demo/557.m3u8
+#EXTINF:-1,FILM Angel Has Fallen
+http://shamsi.xyz:25461/movie/demo/demo/558.m3u8
+#EXTINF:-1,FILM The King    HD
+http://shamsi.xyz:25461/movie/demo/demo/559.m3u8
+#EXTINF:-1,FILM Primal    HD
+http://shamsi.xyz:25461/movie/demo/demo/560.m3u8
+#EXTINF:-1,FILM Paradise Hills
+http://shamsi.xyz:25461/movie/demo/demo/561.m3u8
+#EXTINF:-1,FILM Joker    HD
+http://shamsi.xyz:25461/movie/demo/demo/562.m3u8
+#EXTINF:-1,FILM Dora and the Lost City of Gold
+http://shamsi.xyz:25461/movie/demo/demo/563.m3u8
+#EXTINF:-1,FILM The Farewell    HD
+http://shamsi.xyz:25461/movie/demo/demo/564.m3u8
+#EXTINF:-1,FILM Aladdin
+http://shamsi.xyz:25461/movie/demo/demo/565.m3u8
+#EXTINF:-1,WWE HD
+http://shamsi.xyz:25461/demo/demo/628
+#EXTINF:-1,SHAMSI HaniRamzi
+http://shamsi.xyz:25461/demo/demo/629
+#EXTINF:-1,SHAMSI A PLAY
+http://shamsi.xyz:25461/demo/demo/630
+#EXTINF:-1,tvg-name="Documentary " tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="NEWS",Documentary
+http://shamsi.xyz:25461/demo/demo/631
+#EXTINF:-1,NEWS SKY NEWS AR
+http://shamsi.xyz:25461/demo/demo/632
+#EXTINF:-1,Bein Movies 1
+http://shamsi.xyz:25461/demo/demo/633
+#EXTINF:-1,Bein Movies 2
+http://shamsi.xyz:25461/demo/demo/634
+#EXTINF:-1,Bein Movies 3
+http://shamsi.xyz:25461/demo/demo/635
+#EXTINF:-1,Bein Movies 4
+http://shamsi.xyz:25461/demo/demo/636
+#EXTINF:-1,BEIN DRAMA
+http://shamsi.xyz:25461/demo/demo/637
+#EXTINF:-1,BEIN SERIES 1
+http://shamsi.xyz:25461/demo/demo/638
+#EXTINF:-1,BEIN GOURMET
+http://shamsi.xyz:25461/demo/demo/639
+#EXTINF:-1,HAWACOM HD
+http://shamsi.xyz:25461/demo/demo/640
+#EXTINF:-1,AGHANI TV
+http://shamsi.xyz:25461/demo/demo/641
+#EXTINF:-1,ARABICA TV
+http://shamsi.xyz:25461/demo/demo/642
+#EXTINF:-1,ROTANA MUSIC
+http://shamsi.xyz:25461/demo/demo/644
+#EXTINF:-1,ROTANA CLIP
+http://shamsi.xyz:25461/demo/demo/645
+#EXTINF:-1,Fox Action Movies
+http://shamsi.xyz:25461/demo/demo/646
+#EXTINF:-1,BEIN SERIES 2
+http://shamsi.xyz:25461/demo/demo/647
+#EXTINF:-1,HINDI ZEE ALWAN
+http://shamsi.xyz:25461/demo/demo/648
+#EXTINF:-1,HINDI ZEE AFLAM
+http://shamsi.xyz:25461/demo/demo/649
+#EXTINF:-1,HINDI B4U AFLAM
+http://shamsi.xyz:25461/demo/demo/650
